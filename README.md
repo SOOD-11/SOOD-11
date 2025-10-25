@@ -53,7 +53,7 @@
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SOOD-11&style=flat-square&color=blue)
 
 ---
 
@@ -70,34 +70,4 @@
 
 ![Coding GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
----
 
-### 💡 Pro Tips:
-1. Replace `USERNAME` and `YOUR_LINK` with your GitHub username and other links.  
-2. Customize **projects, skills, and GIFs** to match your profile.  
-3. You can **add GitHub Actions** to auto-update stats or daily quotes.  
-
----
-
-This README will render **beautifully on GitHub** with **interactive stats, skill bars, and visitor counters** — recruiters will be impressed immediately.
-
----
-
-If you want, I can also **make a “next-level” version with GitHub Actions that auto-updates daily stats, streaks, and random coding GIFs** — literally like your profile is alive!  
-
-Do you want me to do that next?
-
-<!--
-**SOOD-11/SOOD-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
