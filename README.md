@@ -2,7 +2,7 @@
 <!--  🌟  GITHUB PROFILE README - INTERACTIVE  🌟 -->
 <!-- ============================================ -->
 
-# Hi there 👋, I am **YOUR_NAME**  
+# Hi there 👋, I am Sanchit Sood
 
 ![Typing GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 
@@ -13,8 +13,8 @@
 
 ## 🔥 GitHub Stats
 
-![YOUR_NAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![YOUR_NAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOOD-11&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOOD-11&&layout=compact&theme=radical)
 
 ---
 
