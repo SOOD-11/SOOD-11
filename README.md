@@ -4,7 +4,7 @@
 
 # Hi there 👋, I am Sanchit Sood
 
-![Typing GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![Typing GIF]([https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://giphy.com/gifs/trt-network-trt1-trt-tekilat-xsCevAab5ufj37BeGR))  
 
 🚀 **Full-Stack Developer | CSE Student | Open Source Enthusiast**  
 🎯 **Goals:** Build scalable systems, hackathons, contribute to Web3 & FinTech  
