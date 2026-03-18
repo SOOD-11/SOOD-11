@@ -22,9 +22,9 @@
 
 | Project | Description | Link |
 |---------|------------|------|
-| [Uber Clone](https://github.com/USERNAME/uber-clone) | MERN + Socket.io | ![Repo](https://img.shields.io/badge/View-Repo-blue) |
-| [Ethereum Fraud Detection](https://github.com/USERNAME/ethereum-fraud) | ML + GNN + NLP | ![Repo](https://img.shields.io/badge/View-Repo-green) |
-| [Portfolio Website](https://USERNAME.github.io/) | React + Tailwind | ![Live](https://img.shields.io/badge/Live-View-red) |
+| [Uber Clone](https://github.com/Sood-11/uber-clone) | MERN + Socket.io | ![Repo](https://img.shields.io/badge/View-Repo-blue) |
+| [Fixed Deposit Module for core banking](https://github.com/Sood-11/FD-Module) | ML + GNN + NLP | ![Repo](https://img.shields.io/badge/View-Repo-green) |
+| [Portfolio Website](https://Sood-11.github.io/) | React + Tailwind | ![Live](https://img.shields.io/badge/Live-View-red) |
 
 *(You can add as many project cards as you like using GitHub pinning or shields)*
 
