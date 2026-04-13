@@ -24,7 +24,7 @@
 |---------|------------|------|
 | [Uber Clone](https://github.com/Sood-11/uber-clone) | MERN + Socket.io | ![Repo](https://img.shields.io/badge/View-Repo-blue) |
 | [Fixed Deposit Module for core banking](https://github.com/Sood-11/FD-Module) | ML + GNN + NLP | ![Repo](https://img.shields.io/badge/View-Repo-green) |
-| [Portfolio Website](https://Sood-11.github.io/) | React + Tailwind | ![Live](https://img.shields.io/badge/Live-View-red) |
+| [Portfolio Website](https://Sood-11.github.io/SanchitSood.github.io) | React + Tailwind | ![Live](https://img.shields.io/badge/Live-View-red) |
 
 *(You can add as many project cards as you like using GitHub pinning or shields)*
 
@@ -47,7 +47,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_LINK)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://YOUR_LINK.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)]((https://Sood-11.github.io/SanchitSood.github.io))
 
 ---
 
